@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Dynamic Animated Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:3b82f6&height=200&section=header&text=Rafee%20Rawshony&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Next.js%20%E2%80%A2%20TypeScript%20%7C%20Cloud%20%26%20AI&descAlignY=58&descSize=18" width="100%" alt="Rafee Rawshony Banner" />
+  <!-- Dynamic Animated Wave Banner (100% Fixed SVG) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:3b82f6&height=200&section=header&text=Rafee%20Rawshony&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20-%20Next.js%20%7C%20TypeScript%20%7C%20Cloud%20and%20AI&descAlignY=58&descSize=18" width="100%" alt="Rafee Rawshony Banner" />
 
-  <!-- Typing SVG Animation -->
+  <!-- Typing SVG Animation (Optimized Width & Clean Text) -->
   <a href="https://md.rafeerawshony.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Assalamu+Alaikum!+I'm+MD+Rafee+Rawshony+Rizvee+%F0%9F%91%8B;Architecting+Digital+Experiences+Through+Code+%F0%9F%9A%80;Full-Stack+Web+Developer+(Next.js+15+%7C+TypeScript+%7C+Supabase);Building+Scalable+SaaS%2C+AI+Integrations+%26+Premium+UI%2FUX" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Assalamu+Alaikum!+I+am+MD+Rafee+Rawshony+Rizvee;Architecting+Digital+Experiences+Through+Code;Full-Stack+Developer+(Next.js+15+-+TypeScript+-+Supabase);Building+Scalable+SaaS%2C+AI+Integrations+and+Premium+UI%2FUX" alt="Typing SVG" />
   </a>
 
   <br />
@@ -30,26 +30,63 @@
 
 ### ⚡ About Me
 
-I am a **Full-Stack Developer** and **Computer Science & Engineering (CSE)** graduate from **Daffodil International University**, driven by a passion for solving complex architectural challenges and building modern, scalable web applications. I specialize in crafting high-performance digital products that combine clean data pipelines, custom security, and intuitive UI/UX.
+<div align="center">
+  <blockquote>
+    <h3><i>"Architecting Digital Experiences Through Code"</i></h3>
+    <p>I am a passionate <b>Full-Stack Web Developer</b> who loves turning complex business problems into fast, scalable, and intuitive digital products. From crafting pixel-perfect interfaces in <b>Figma & Next.js</b> to engineering secure backend pipelines with <b>Node.js, PostgreSQL, and Cloud Infrastructure</b>, I build web applications designed for real-world impact.</p>
+  </blockquote>
+</div>
 
-```ts
-// developer.ts — inspired by md.rafeerawshony.dev
-const developer = {
-  name: "MD Rafee Rawshony Rizvee",
-  handle: "rafee-rawshony",
-  role: "Full-Stack Developer",
-  location: "Dhaka, Bangladesh 🇧🇩",
-  coreStack: ["Next.js 15", "TypeScript", "React.js", "Node.js", "PostgreSQL", "Supabase"],
-  architectureFocus: ["Scalable SaaS", "AI Integration", "Self-Hosted VPS & Docker", "Premium UI/UX"],
-  availableForProjects: true,
-};
+<!-- 4-Column Portfolio Highlight Cards -->
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/2%2B%20Years-0ea5e9?style=for-the-badge" alt="2+ Years" /><br />
+      <b>Hands-On Experience</b><br />
+      <sub>Full-Stack Web Engineering</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/8%2B%20Projects-10b981?style=for-the-badge" alt="8+ Projects" /><br />
+      <b>Production Delivered</b><br />
+      <sub>Live Web & SaaS Platforms</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/31%2B%20Tools-8b5cf6?style=for-the-badge" alt="31+ Tools" /><br />
+      <b>Technologies Mastered</b><br />
+      <sub>Modern Frameworks & Cloud</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/100%25%20Focus-f59e0b?style=for-the-badge" alt="100% Focus" /><br />
+      <b>Quality & Performance</b><br />
+      <sub>Scalable SaaS & Premium UI/UX</sub>
+    </td>
+  </tr>
+</table>
 
-export async function ship(idea: Concept): Promise<ProductionApp> {
-  const ui  = await designInFigma(idea);
-  const api = await buildWithNextAndPrisma(ui);
-  return deployToCloud(api); // ✓ Compiled & Live
-}
-```
+<!-- 2-Column Creative Profile Bento Grid -->
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">🧭 Developer Snapshot</h4>
+      <ul>
+        <li>🎓 <b>Education:</b> B.Sc. in Computer Science & Engineering (CSE) — <i>Daffodil International University</i></li>
+        <li>📍 <b>Location:</b> Dhaka, Bangladesh 🇧🇩</li>
+        <li>💼 <b>Core Focus:</b> Full-Stack Web Apps, AI Integration & Cloud Architecture</li>
+        <li>🌐 <b>Web Hub:</b> <a href="https://md.rafeerawshony.dev">md.rafeerawshony.dev</a></li>
+        <li>🟢 <b>Status:</b> <b>Available</b> for Full-Time Roles & Freelance Projects</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">⚡ Engineering Philosophy</h4>
+      <ul>
+        <li>🏗️ <b>Modular Design:</b> Clean, self-contained component architectures and maintainable codebases.</li>
+        <li>🔐 <b>Security First:</b> Custom JWT authentication (<code>jose</code>, <code>bcryptjs</code>) & Role-Based Access Control.</li>
+        <li>☁️ <b>Pragmatic Cloud:</b> Self-hosted Linux VPS, Docker, Coolify, and Cloudflare R2 storage.</li>
+        <li>🎨 <b>End-to-End Ownership:</b> Taking ideas from Figma wireframes all the way to live deployment.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -107,20 +144,40 @@ export async function ship(idea: Concept): Promise<ProductionApp> {
 
 ---
 
-### 📊 GitHub Analytics & Activity
+### 📊 GitHub Analytics & Expertise Breakdown
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=rafee-rawshony&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Rafee's GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafee-rawshony&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <!-- Live Dynamic GitHub Badges (Always Online) -->
+  <p>
+    <img src="https://img.shields.io/github/followers/rafee-rawshony?style=for-the-badge&logo=github&label=Followers&color=0ea5e9&labelColor=0f172a" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/rafee-rawshony?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=starship&label=Total%20Stars&color=f59e0b&labelColor=0f172a" alt="Total Stars" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Frafee-rawshony&query=%24.public_repos&style=for-the-badge&logo=git&label=Public%20Repos&color=10b981&labelColor=0f172a" alt="Public Repos" />
+  </p>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rafee-rawshony&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafee-rawshony&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=ffffff&area=true&hide_border=true" width="98%" alt="Contribution Graph" />
-</div>
+<table width="100%">
+  <tr>
+    <td width="52%" align="center" valign="middle">
+      <h4>🔥 Contribution Streak</h4>
+      <img src="https://streak-stats.demolab.com?user=rafee-rawshony&theme=tokyonight&hide_border=true&background=0D1117" width="100%" alt="GitHub Streak" />
+    </td>
+    <td width="48%" valign="middle">
+      <h4 align="center">💻 Core Stack Distribution</h4>
+      <p align="left">
+        <img src="https://img.shields.io/badge/TypeScript%20%26%20JavaScript-95%25-38bdf8?style=flat-square&logo=typescript&logoColor=white" alt="TS/JS" /><br />
+        <code>███████████████████░</code><br />
+        <img src="https://img.shields.io/badge/Next.js%20%26%20React.js-95%25-0ea5e9?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next/React" /><br />
+        <code>███████████████████░</code><br />
+        <img src="https://img.shields.io/badge/Node.js%20%E2%80%A2%20PostgreSQL%20%E2%80%A2%20Supabase-90%25-10b981?style=flat-square&logo=supabase&logoColor=white" alt="Backend" /><br />
+        <code>██████████████████░░</code><br />
+        <img src="https://img.shields.io/badge/Tailwind%20CSS%20%26%20Figma%20UI%2FUX-90%25-8b5cf6?style=flat-square&logo=tailwindcss&logoColor=white" alt="UI/UX" /><br />
+        <code>██████████████████░░</code><br />
+        <img src="https://img.shields.io/badge/Docker%20%E2%80%A2%20Linux%20VPS%20%E2%80%A2%20Cloudflare-85%25-f59e0b?style=flat-square&logo=docker&logoColor=white" alt="DevOps" /><br />
+        <code>█████████████████░░░</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
