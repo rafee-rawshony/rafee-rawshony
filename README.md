@@ -1,9 +1,9 @@
 <div align="center">
 
-  <!-- Dynamic Animated Wave Banner (100% Fixed SVG) -->
+  <!-- Dynamic Animated Wave Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:3b82f6&height=200&section=header&text=Rafee%20Rawshony&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20-%20Next.js%20%7C%20TypeScript%20%7C%20Cloud%20and%20AI&descAlignY=58&descSize=18" width="100%" alt="Rafee Rawshony Banner" />
 
-  <!-- Typing SVG Animation (Optimized Width & Clean Text) -->
+  <!-- Typing SVG Animation -->
   <a href="https://md.rafeerawshony.dev">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Assalamu+Alaikum!+I+am+MD+Rafee+Rawshony+Rizvee;Architecting+Digital+Experiences+Through+Code;Full-Stack+Developer+(Next.js+15+-+TypeScript+-+Supabase);Building+Scalable+SaaS%2C+AI+Integrations+and+Premium+UI%2FUX" alt="Typing SVG" />
   </a>
@@ -108,24 +108,157 @@
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+<h2 align="center">🛠️ TECH STACK</h2>
 
 <div align="center">
 
-#### **Frontend & UI/UX**
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,figma&perline=8" alt="Frontend Stack" />
-</p>
+  <!-- Row 1: 9 Cards -->
+  <table align="center">
+    <tr>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=bots" width="36" alt="ChatGPT & AI" /><br />
+        <sub><b>ChatGPT</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=linux" width="36" alt="Linux" /><br />
+        <sub><b>Linux</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=figma" width="36" alt="Figma" /><br />
+        <sub><b>Figma</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=c" width="36" alt="C" /><br />
+        <sub><b>C</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="36" alt="Node JS" /><br />
+        <sub><b>Node JS</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=gcp" width="36" alt="Gemini" /><br />
+        <sub><b>Gemini</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=postgres" width="36" alt="PostgreSQL" /><br />
+        <sub><b>PostgreSQL</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=js" width="36" alt="JavaScript" /><br />
+        <sub><b>JavaScript</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=react" width="36" alt="React.js" /><br />
+        <sub><b>React.js</b></sub>
+      </td>
+    </tr>
+  </table>
 
-#### **Backend, Databases & Systems**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,django,php,laravel,postgres,supabase,prisma,mysql,sqlite,c,java,rust,kotlin&perline=7" alt="Backend Stack" />
-</p>
+  <!-- Row 2: 8 Cards -->
+  <table align="center">
+    <tr>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=laravel" width="36" alt="Laravel" /><br />
+        <sub><b>Laravel</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=vercel" width="36" alt="Vercel" /><br />
+        <sub><b>Vercel</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=git" width="36" alt="Git" /><br />
+        <sub><b>Git</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="36" alt="Next.js" /><br />
+        <sub><b>Next.js</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=express" width="36" alt="REST API" /><br />
+        <sub><b>REST API</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=mysql" width="36" alt="MySQL" /><br />
+        <sub><b>MySQL</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=github" width="36" alt="GitHub" /><br />
+        <sub><b>GitHub</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=ts" width="36" alt="TypeScript" /><br />
+        <sub><b>TypeScript</b></sub>
+      </td>
+    </tr>
+  </table>
 
-#### **Cloud, DevOps & Developer Workflow**
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,cloudflare,vercel,netlify,git,github,pnpm,vscode,androidstudio&perline=10" alt="DevOps and Tools" />
-</p>
+  <!-- Row 3: 8 Cards -->
+  <table align="center">
+    <tr>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=netlify" width="36" alt="Netlify" /><br />
+        <sub><b>Netlify</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=cloudflare" width="36" alt="Cloudflare" /><br />
+        <sub><b>Cloudflare</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=python" width="36" alt="Python" /><br />
+        <sub><b>Python</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="36" alt="SQLite" /><br />
+        <sub><b>SQLite</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=vscode" width="36" alt="VS Code" /><br />
+        <sub><b>VS Code</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="36" alt="Tailwind CSS" /><br />
+        <sub><b>Tailwind</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=php" width="36" alt="PHP" /><br />
+        <sub><b>PHP</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=supabase" width="36" alt="Supabase" /><br />
+        <sub><b>Supabase</b></sub>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Row 4: 6 Cards (Pyramid Bottom) -->
+  <table align="center">
+    <tr>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=docker" width="36" alt="VPS & Docker" /><br />
+        <sub><b>VPS Deploy</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=prisma" width="36" alt="Prisma & SQL" /><br />
+        <sub><b>SQL / Prisma</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=html" width="36" alt="HTML5" /><br />
+        <sub><b>HTML5</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=css" width="36" alt="CSS3" /><br />
+        <sub><b>CSS3</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=pnpm" width="36" alt="pnpm" /><br />
+        <sub><b>pnpm</b></sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=django" width="36" alt="Django" /><br />
+        <sub><b>Django</b></sub>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
@@ -147,7 +280,7 @@
 ### 📊 GitHub Analytics & Expertise Breakdown
 
 <div align="center">
-  <!-- Live Dynamic GitHub Badges (Always Online) -->
+  <!-- Live Dynamic GitHub Badges -->
   <p>
     <img src="https://img.shields.io/github/followers/rafee-rawshony?style=for-the-badge&logo=github&label=Followers&color=0ea5e9&labelColor=0f172a" alt="GitHub Followers" />
     <img src="https://img.shields.io/github/stars/rafee-rawshony?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=starship&label=Total%20Stars&color=f59e0b&labelColor=0f172a" alt="Total Stars" />
